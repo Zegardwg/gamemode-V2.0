@@ -1,0 +1,8 @@
+alias:deny("cancel")
+alias:enter("exit", "ex")
+alias:items("item")
+alias:email("mail")
+alias:savestats("savestat", "saveme")
+alias:time("delay")
+alias:setfreq("setwt")
+alias:inventory("inven", "inv")
